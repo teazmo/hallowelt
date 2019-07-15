@@ -1,1 +1,0 @@
-Dieser Text entstand nach dem Traversy Video über git und Github 2019-07-10
